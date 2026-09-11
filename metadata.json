@@ -1,0 +1,6 @@
+{
+  "name": "Meu Eleitor",
+  "description": "Painel de Gestão e Gabinete do Vereador Kauan Lorenço - Alto Alegre/RR",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
